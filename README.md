@@ -3,7 +3,7 @@ This repository intends to share some materials used in my machine learning clas
 
 Available notebooks and datasets:
 
-##1. iris
+## 1. iris
 
-##2. house prices
+## 2. house prices
 This tutorial is about a set of basic concepts related to linear regression, including the cost function and gradient descent.
