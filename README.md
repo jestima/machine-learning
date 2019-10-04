@@ -7,3 +7,7 @@ Available notebooks and datasets:
 
 ## 2. house prices
 This tutorial is about a set of basic concepts related to linear regression, including the cost function and gradient descent.
+
+## 3. teste
+
+* bla bla bla
